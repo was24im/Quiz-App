@@ -1,1 +1,2 @@
-This app is developed using reactjs. we build an app for quiz.
+Getting Started with Create React App
+This project was bootstrapped with Create React App.
